@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nimmaah
-- 👀 I’m interested in python and machine learning and using python and data science in architectural fields
-- 🌱 I’m currently learning javascript and i know python, html and css
+- 👀 I’m interested in python and machine learning and using python and data science in Architecture and Energy fields
+- 🌱 I’m currently learning ReactNative and i know Python, JavaScript, HTML and CSS
 - 💞️ I’m looking to collaborate on "..."
 - 📫 How to reach me = telegram messenger @nim_maah
 - 😄 Pronouns: He/His
